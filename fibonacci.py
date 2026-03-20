@@ -1,4 +1,4 @@
-print("Fibonacci ou não")
+print("Fibonacci ou não?")
 valor_verifica = int(input("Digite um valor: "))
 
 a = 1
